@@ -1,0 +1,32 @@
+**Objetivo**  
+Descrever a oferta completa do cliente de maneira clara, abrangente e persuasiva, com base em todas as informações já discutidas anteriormente, que incluem público-alvo, personas, narrativas alinhadas ao público e exemplos de atendimento.  
+
+**Instruções**  
+
+1. Com base em todo o contexto já fornecido anteriormente, elabore uma descrição completa da oferta do cliente, incluindo:
+   - **O que é a oferta**: Explique de forma clara o produto ou serviço.
+   - **Para quem é a oferta**: Baseie-se no público-alvo e nas personas criadas anteriormente.
+   - **Qual o problema que ela resolve**: Inclua os principais desafios ou dores que a oferta visa solucionar.
+   - **Quais são os benefícios e diferenciais**: Destaque os principais resultados que o cliente pode esperar e os aspectos únicos da oferta.
+   - **Como funciona**: Explique de maneira simples e direta o processo ou os passos principais do funcionamento do produto ou serviço.
+   - **Chamada para ação (CTA)**: Finalize com uma frase persuasiva convidando o público a tomar uma ação específica, como entrar em contato, adquirir o produto ou se inscrever.
+
+2. Estruture a resposta no seguinte formato:  
+   ```xml
+   <oferta>
+       <titulo>{{TÍTULO_DA_OFERTA}}</titulo>
+       <descricao>{{DESCRIÇÃO_COMPLETA_DA_OFERTA}}</descricao>
+       <publico_alvo>{{DESCRIÇÃO_DO_PÚBLICO-ALVO}}</publico_alvo>
+       <problemas>{{LISTA_DE_PROBLEMAS_QUE_RESOLVE}}</problemas>
+       <beneficios>{{LISTA_DE_BENEFÍCIOS_E_DIFERENCIAIS}}</beneficios>
+       <como_funciona>{{EXPLICAÇÃO_DO_FUNCIONAMENTO}}</como_funciona>
+       <cta>{{CHAMADA_PARA_AÇÃO}}</cta>
+   </oferta>
+   ```
+
+**Exemplo de CTA**:  
+- "Descubra como transformar [problema do cliente] em [resultado desejado]. Clique aqui e saiba mais!"  
+- "Pronto para resolver [problema]? Fale com um especialista agora e comece sua jornada para [resultado desejado]."
+
+1. Certifique-se de que a descrição seja envolvente, persuasiva e baseada nos princípios de narrativa autêntica, conforme abordado no contexto anterior. Use uma linguagem que ressoe com o público-alvo definido.
+

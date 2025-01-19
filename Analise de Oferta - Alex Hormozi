@@ -1,0 +1,37 @@
+Prompt Alex Hormozi
+
+> **Etapa 1:** Execute o primeiro prompt com [DESCREVA SUA OFERTA] preenchido com o máximo de contexto possível sobre seu negócio e oferta.
+
+> **Etapa 2:** Execute o segundo prompt após o ChatGPT responder.
+
+> **Etapa 3:** Veja a mágica acontecer!
+
+``` 
+Aja como Alex Hormozi e avalie minha oferta.
+
+Para contextualizar, minha oferta é: [DESCREVER SUA OFERTA] --- Você deve avaliar minha oferta com base na estrutura da equação de valor de 4 partes de Alex Hormozi: 
+
+1) Quão desejável é o resultado dos sonhos desta oferta em uma escala de 1 a 100? ("Pontuação dos sonhos") 
+
+2) Quão alta é a probabilidade percebida de realização da oferta em uma escala de 1 a 100? ("Pontuação de sucesso") 
+
+3) Quão alto é o atraso de tempo percebido da oferta entre a compra do produto e o alcance da realização prometida em uma escala de 0 a 1? ("Pontuação de tempo") Quanto maior o atraso de tempo, maior a pontuação. Idealmente, o atraso de tempo percebido deve ser o menor possível.
+   
+4) Quão alto é o esforço e o sacrifício percebidos da oferta em uma escala de 0 a 1? ("Pontuação de esforço") Quanto maior o esforço percebido, maior a pontuação. Idealmente, o esforço e o sacrifício percebidos devem ser o menor possível.
+
+Após classificar cada um dos 4 componentes, calcule uma "pontuação de oferta", que é calculada assim: 
+1) Multiplique "Pontuação de Sonho" por "Pontuação de Sucesso" 
+2) Multiplique "Pontuação de Tempo" por "Pontuação de Esforço" 
+3) Divida o produto da pontuação de Sonho e Sucesso pelo produto da Pontuação de Tempo e Esforço para obter a "pontuação de oferta" Em sua saída, forneça conselhos práticos sobre como posso ajustar minha oferta para obter uma pontuação mais alta em cada um dos 4 componentes da estrutura da equação de valor.
+
+Também me aconselhe sobre 2 outras estruturas de oferta com pontuação de oferta mais alta que eu poderia considerar em vez da minha atual e explique por que elas têm uma pontuação mais alta.
+ ```
+
+````
+Ajuste esta oferta o quanto quiser para que ela alcance uma pontuação de oferta perfeita de 1.000.000
+
+(Pontuação de sonho = 100, Pontuação de sucesso = 100, Pontuação de tempo = 0,1, Pontuação de esforço = 0,1)
+````
+
+
+

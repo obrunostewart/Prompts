@@ -39,10 +39,6 @@ Aqui você encontrará:
 3. **Personalizar e Usar:**
    Ajuste os prompts conforme suas necessidades e aplique diretamente no ChatGPT.
 
-4. **Opcional: Hospedagem**
-   - **Sites Estáticos**: Use GitHub Pages para hospedar materiais prontos ou guias interativos.  
-   - **Projetos Dinâmicos**: Implante em Netlify ou outras plataformas para criar interatividade avançada.  
-
 ---
 
 ## **⚡ Exemplos de Conteúdo**
@@ -54,19 +50,6 @@ Aqui você encontrará:
 
 ## **📈 Planos Futuros**
 - Adicionar mais **prompts inspirados em livros e estratégias reais**.  
-- Criar templates para integração com **ChatGPT API** em aplicações dinâmicas.  
-- Disponibilizar um guia interativo em GitHub Pages com navegação simplificada.  
-
----
-
-## **💡 Como Contribuir**
-Contribuições são bem-vindas! Siga estas etapas:
-1. Faça um fork do repositório.  
-2. Crie um branch:
-   ```bash
-   git checkout -b sua-feature
-   ```
-3. Envie suas melhorias ou novos prompts em um pull request.
 
 ---
 
